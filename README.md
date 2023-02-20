@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nitrin.NET<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about Kotlin and Minecraft
+🔭 I’m currently working on Nitrin.NET<br>🌱 I’m currently learning mostly Kotlin<br>💬 Ask me about Java/Kotlin and Minecraft
 
 
 # 💻 Tech Stack:
